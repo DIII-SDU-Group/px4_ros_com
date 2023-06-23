@@ -63,3 +63,5 @@ rtps:
     send: true
   - msg: RcChannels
     send: true
+  - msg: HomePosition
+    send: true
