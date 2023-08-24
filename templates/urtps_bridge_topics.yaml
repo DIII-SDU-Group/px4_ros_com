@@ -65,3 +65,7 @@ rtps:
     send: true
   - msg: HomePosition
     send: true
+  - msg: VehicleThrustSetpoint
+    receive: true
+  - msg: VehicleTorqueSetpoint
+    receive: true
